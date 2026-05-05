@@ -46,7 +46,7 @@ const moveis = [
     { nome: "CONT WRAPAROUND", preco: 100 },
     { nome: "CONT INF RETA OU HIG", preco: 50 },
     { nome: "PLACA MAURICIO", preco: 100 },
-    { nome: "PLACA BRUXISMO", preco: 90 },
+    { nome: "PLACA BRUXISMO", preco: 190 },
     { nome: "PLACA ACEITATO 1MM", preco: 100 },
     { nome: "PLACA ACEITATO 2MM", preco: 120 },
     { nome: "PLACA SILICONE 3MM", preco: 100 },
